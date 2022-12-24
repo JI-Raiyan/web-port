@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Poppins&family=Roboto&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  font-family: "Cutive Mono", monospace;
+  font-size: 3rem;
+}
+.baka {
+  color: gold;
+}
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.half-width img {
+    float: right;
+  width: 100%;
+}
