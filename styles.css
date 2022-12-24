@@ -9,13 +9,13 @@ h1 {
   font-size: 3rem;
 }
 .top_banner {
-  background-image: url(/images/top-banner.png);
+  background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
   margin-bottom: 2rem;
 }
 
 .dream-area {
-  background-image: url(/images/dream-bg.png);
+  background-image: url(images/dream-bg.png);
   background-repeat: no-repeat;
   margin-bottom: 2rem;
   background-position: right;
@@ -49,7 +49,7 @@ section {
 }
 .exp-area {
   text-align: center;
-  background-image: url(/images/exp-bg.png);
+  background-image: url(images/exp-bg.png);
   background-repeat: no-repeat;
   background-position: left;
 
